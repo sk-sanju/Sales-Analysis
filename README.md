@@ -17,7 +17,7 @@ This project demonstrates various data transformation and visualization techniqu
 ![Screenshot 2](regional_sales.png)  
 *Detailed line chart view of data over time*
 
-![Screenshot 3](Querterly.png)  
+![Screenshot 3](querterly.png)  
 *Seasonal trend analysis and pattern identification*
 
 ![Screenshot 4](monthly_sales.png)  
