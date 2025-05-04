@@ -23,7 +23,7 @@ This project demonstrates various data transformation and visualization techniqu
 ![Screenshot 4](monthly_sales.png)  
 *Data preparation and transformation steps*
 
-![Screenshot 5](diffrence.png)  
+![Screenshot 5](difference.png)
 *Custom sorting and enhanced data representation*
 
 ## How to Use
