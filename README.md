@@ -35,5 +35,5 @@ This project demonstrates various data transformation and visualization techniqu
 
 ---
 
-**Author:** Sanjay | **Company:** Xenotrix Technologies  
+**Author:** Sanjay
 **Date:** May 2025
