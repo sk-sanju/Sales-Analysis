@@ -11,6 +11,9 @@ This project demonstrates various data transformation and visualization techniqu
 
 ## Screenshots
 
+![Screenshot 1](BV_India.png)  
+*Dashboard with key indicators and visuals*
+
 ![Screenshot 1](unit_sales.png)  
 *Dashboard with key indicators and visuals*
 
